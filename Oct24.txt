@@ -1,0 +1,4 @@
+udpreceive // to receive udp packets generated on port mentioned
+
+route /hd filters all the messages with the tag /hd 
+
